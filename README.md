@@ -1,6 +1,6 @@
 # lista_tarefas
 
-A new Flutter project.
+App criado com Flutter para Listar tarefas.
 
 ## Getting Started
 
