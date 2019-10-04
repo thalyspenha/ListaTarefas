@@ -1,8 +1,8 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/thalys/Documents/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/thalys/Projetos/lista_tarefas"
-export "FLUTTER_TARGET=/Users/thalys/Projetos/lista_tarefas/lib/main.dart"
+export "FLUTTER_APPLICATION_PATH=/Users/thalys/Projetos/ListaTarefas"
+export "FLUTTER_TARGET=/Users/thalys/Projetos/ListaTarefas/lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "SYMROOT=${SOURCE_ROOT}/../build/ios"
 export "FLUTTER_FRAMEWORK_DIR=/Users/thalys/Documents/flutter/bin/cache/artifacts/engine/ios"
